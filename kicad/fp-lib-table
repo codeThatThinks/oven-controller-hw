@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name oven-controller)(type KiCad)(uri ${KIPRJMOD}/oven-controller.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,97 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP APX809Sxx-xxSA
+D Microprocessor Reset (active-low) Circuit, SOT-23
+K reset supervisor
+F https://www.diodes.com/assets/Datasheets/APX809S-810S.pdf
+$ENDCMP
+#
+$CMP APX809Sxx-xxSR
+D Microprocessor Reset (active-low) Circuit, SOT-23
+K reset supervisor
+F https://www.diodes.com/assets/Datasheets/APX809S-810S.pdf
+$ENDCMP
+#
+$CMP APX810Sxx-xxSA
+D Microprocessor Reset (active-high) Circuit, SOT-23
+K reset supervisor
+F https://www.diodes.com/assets/Datasheets/APX809S-810S.pdf
+$ENDCMP
+#
+$CMP APX810Sxx-xxSR
+D Microprocessor Reset (active-high) Circuit, SOT-23
+K reset supervisor
+F https://www.diodes.com/assets/Datasheets/APX809S-810S.pdf
+$ENDCMP
+#
+$CMP AT24CS02-XHM
+D I2C Serial EEPROM, 2Kb (256x8) with Unique Serial Number, TSSOP8
+K I2C Serial EEPROM Nonvolatile Memory
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8815-SEEPROM-AT24CS01-02-Datasheet.pdf
+$ENDCMP
+#
+$CMP AT34C01-X5M
+D I2C Serial EEPROM, 1Kb (128x8) with Reversible Software Write Protection, 8-TSSOP
+K I2C Serial EEPROM Nonvolatile Memory
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en590590
+$ENDCMP
+#
+$CMP AT34C02-X5M
+D I2C Serial EEPROM, 2Kb (256x8) with Reversible Software Write Protection, 8-TSSOP
+K I2C Serial EEPROM Nonvolatile Memory
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8815-SEEPROM-AT24CS01-02-Datasheet.pdf
+$ENDCMP
+#
+$CMP AT34C04-X5M
+D I2C Serial EEPROM, 4Kb (512x8) with Reversible Software Write Protection, 8-TSSOP
+K I2C Serial EEPROM Nonvolatile Memory
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en590590
+$ENDCMP
+#
+$CMP AT34C08-X5M
+D I2C Serial EEPROM, 8Kb (1024x8) with Reversible Software Write Protection, 8-TSSOP
+K I2C Serial EEPROM Nonvolatile Memory
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en590590
+$ENDCMP
+#
+$CMP AT34C16-X5M
+D I2C Serial EEPROM, 16Kb (2048x8) with Reversible Software Write Protection, 8-TSSOP
+K I2C Serial EEPROM Nonvolatile Memory
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en590590
+$ENDCMP
+#
+$CMP Display_LiangHaoCai_3.5in_IPS_CTP
+D 3.5" TFT IPS Display with Capacitive Touch Panel
+$ENDCMP
+#
+$CMP MCP9600
+D Thermocouple to I2C Digital Temperature Converter, ±0.5°C accuracy, 20-MQFN
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP960X-Data-Sheet-20005426.pdf
+$ENDCMP
+#
+$CMP MCP9601
+D Thermocouple to I2C Digital Temperature Converter with OC/SC detection, ±0.5°C accuracy, 20-MQFN
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP960X-Data-Sheet-20005426.pdf
+$ENDCMP
+#
+$CMP MCP96L00
+D Thermocouple to I2C Digital Temperature Converter, ±2.0°C accuracy, 20-MQFN
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP960X-Data-Sheet-20005426.pdf
+$ENDCMP
+#
+$CMP MCP96L01
+D Thermocouple to I2C Digital Temperature Converter with OC/SC detection, ±2.0°C accuracy, 20-MQFN
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP960X-Data-Sheet-20005426.pdf
+$ENDCMP
+#
+$CMP MCP96RL00
+D Thermocouple to I2C Digital Temperature Converter, ±4.0°C accuracy, 20-MQFN
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP960X-Data-Sheet-20005426.pdf
+$ENDCMP
+#
+$CMP MCP96RL01
+D Thermocouple to I2C Digital Temperature Converter with OC/SC detection, ±4.0°C accuracy, 20-MQFN
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP960X-Data-Sheet-20005426.pdf
+$ENDCMP
+#
+#End Doc Library

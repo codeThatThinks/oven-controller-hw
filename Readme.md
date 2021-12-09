@@ -1,23 +1,16 @@
-# project-hw
+# MLL Electronics Oven Controller v1.0
 
-A short description of the project -- PCB design files
+A Raspberry Pi Zero-powered PID reflow oven controller -- PCB design files.
 
-![Assembled PCB](Assembled.jpg)
+## Controller PCBA
 
-![PCB Render](PCB.jpg)
+![PCB Render](Controller PCB.jpg)
 
+![PCB Render](Controller PCB Front.jpg)
 
-## Theory of Operation
-
-A detail description of what the hardware does, including some insight into how it was designed and what features set it apart from the competition.
-
-
-## TODO
-
-- A brief list of future improvements
-- And known issues
+![PCB Render](Controller PCB Back.jpg)
 
 
 ## License
 
-This project is licensed under the MIT license. See LICENSE for more details.
+This project is licensed under the CERN-OHL-W v2. See LICENSE for more details.
