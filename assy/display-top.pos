@@ -1,0 +1,7 @@
+### Module positions - created on Sun Dec  5 17:11:36 2021 ###
+### Printed by Pcbnew version kicad 5.1.10
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                                Package                                 PosX       PosY       Rot  Side
+DS1       Display_LiangHaoCai_3.5in_IPS_CTP  Display_LiangHaoCai_3.5in_IPS_CTP   220.0000  -130.0000  180.0000  top
+## End

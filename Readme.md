@@ -11,6 +11,13 @@ A Raspberry Pi Zero-powered PID reflow oven controller -- PCB design files.
 ![PCB Render](Controller-PCB-Back.jpg)
 
 
+## Display PCBA
+
+![PCB Render](Display-PCB-Front.jpg)
+
+![PCB Render](Display-PCB-Back.jpg)
+
+
 ## License
 
 This project is licensed under the CERN-OHL-W v2. See LICENSE for more details.

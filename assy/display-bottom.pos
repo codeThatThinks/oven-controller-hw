@@ -1,0 +1,25 @@
+### Module positions - created on Sun Dec  5 17:11:36 2021 ###
+### Printed by Pcbnew version kicad 5.1.10
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val           Package                                            PosX       PosY       Rot  Side
+C1        0.1u          C_0603_1608Metric                              230.7500  -135.2750  270.0000  bottom
+C2        0.1u          C_0603_1608Metric                              228.7500  -135.2750  270.0000  bottom
+C3        10u           C_0805_2012Metric                              209.2500  -150.2500   90.0000  bottom
+C4        10u           C_0805_2012Metric                              203.2500  -145.0000   -0.0000  bottom
+C5        0.1u          C_0603_1608Metric                              225.4750  -111.7500  180.0000  bottom
+J1        CONTROLLER    TE_1-84953-4_1x14_1MP_P1.0_Horizontal          220.0000  -180.0000  180.0000  bottom
+J2        LCD           GCT_FFC2B28-40-G_1x40_1MP_P0.50mm_Horizontal   220.0000  -129.7500   -0.0000  bottom
+J3        CTP           GCT_FFC2B28-06-G_1x6_1MP_P0.50mm_Horizontal    227.7800  -108.7500   -0.0000  bottom
+R1        100           R_0603_1608Metric                              213.7500  -135.3250  270.0000  bottom
+R2        100           R_0603_1608Metric                              211.7500  -135.3250  270.0000  bottom
+R3        0             R_0603_1608Metric                              206.7500  -138.8250   90.0000  bottom
+R4        0             R_0603_1608Metric                              204.7500  -138.8250   90.0000  bottom
+R5        0             R_0603_1608Metric                              202.7500  -138.8250   90.0000  bottom
+R6        100           R_0603_1608Metric                              209.7500  -135.3250  270.0000  bottom
+R7        DNP           R_0603_1608Metric                              205.7500  -135.3250  270.0000  bottom
+R8        DNP           R_0603_1608Metric                              203.7500  -135.3250  270.0000  bottom
+R9        DNP           R_0603_1608Metric                              201.7500  -135.3250  270.0000  bottom
+U1        AZ1117-3.3    SOT-223-3_TabPin2                              203.2500  -150.2500  180.0000  bottom
+U2        APX809S-29SR  SOT-23                                         198.7500  -140.7500  270.0000  bottom
+## End
